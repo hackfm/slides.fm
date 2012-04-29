@@ -1,0 +1,19 @@
+/**
+ * A *tiny* Last.fm template for the Google HTML5 slide template.
+ * 
+ * Authors:
+ *     * Marek Ventur <marek@last.fm>
+ *     * Sam Smith <samuel@last.fm>
+ */
+
+.slides.template-lastfm article {
+    background: #FFFFFF url(http://cdn.lst.fm/flatness/join/lastfmlogo.png) 730px 562px no-repeat;
+}
+
+.slides.template-lastfm .biglogo {
+    background-position: center;
+}
+
+.slides.template-lastfm .nobackground {
+    background-image: none;
+}
