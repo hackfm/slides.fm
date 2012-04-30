@@ -1,0 +1,35 @@
+21a22,43
+> 
+>     <style>
+>       /**
+>        * A *tiny* Last.fm template for the Google HTML5 slide template.
+>        * 
+>        * Authors:
+>        *     * Marek Ventur <marek@last.fm>
+>        *     * Sam Smith <samuel@last.fm>
+>        */
+> 
+>        .slides.template-lastfm article {
+>          background: #FFFFFF url(http://cdn.lst.fm/flatness/join/lastfmlogo.png) 730px 562px no-repeat;
+>        }
+> 
+>        .slides.template-lastfm .biglogo {
+>          background-position: center;
+>        }
+> 
+>        .slides.template-lastfm .nobackground {
+>          background-image: none;
+>        }
+>     </style>
+24,30d45
+<   <style>
+<     /* Your individual styles here, or just use inline styles if that’s
+<        what you want. */
+<     
+<     
+<   </style>
+< 
+33c48
+<     <section class='slides layout-regular template-default'>
+---
+>     <section class='slides layout-regular template-lastfm'>
